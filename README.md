@@ -4,7 +4,7 @@
 
 ### Full-Stack Developer &nbsp;|&nbsp; AI/ML Enthusiast &nbsp;|&nbsp; B.Tech CSE Undergraduate
 
-*I don't just learn technologies — I build with them.*
+**I don't just learn technologies — I build with them.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-tyagi-894993313)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nikhil1-818)
@@ -90,7 +90,7 @@ I like solving hard problems, picking up emerging technologies quickly, and expe
 ![TensorFlow](https://img.shields.io/badge/TENSORFLOW-1A3C34?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
 ![Scikit-learn](https://img.shields.io/badge/SCIKIT--LEARN-14532D?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
 
-*Technologies I actively explore and build projects with — not claimed as professional expertise.*
+Technologies I actively explore and build projects with — not claimed as professional expertise.
 
 ---
 
