@@ -9,44 +9,79 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-tyagi-894993313)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nikhil1-818)
 
-</div>
+<br>
 
----
-
-### About Me
-
-I'm a Computer Science undergraduate focused on building scalable software, intelligent AI/ML systems, and modern web applications. My interest lies at the intersection of full-stack engineering and applied AI — turning ideas into working, production-oriented systems rather than one-off tutorials.
-
-**My approach:** `Learn` → `Build` → `Scale` → `Ship`
-
-I like solving hard problems, picking up emerging technologies quickly, and experimenting with AI-powered solutions that solve real-world use cases.
-
----
-
-### What I Build
-
-<table width="100%">
+<table align="center">
 <tr>
-<td width="50%" valign="top">
+<td align="center">
 
-**AI & Intelligent Systems**
-- AI-powered applications
-- Intelligent automation
-- Data-driven applications
+![Full-Stack](https://img.shields.io/badge/FULL--STACK-1E3A5F?style=for-the-badge)
+<br>MERN + Modern Web
 
 </td>
-<td width="50%" valign="top">
+<td align="center">
 
-**Software & Infrastructure**
-- Full-stack web platforms
-- Scalable backend systems
-- Cloud-native applications
+![AI/ML](https://img.shields.io/badge/AI%20%2F%20ML-6D28D9?style=for-the-badge)
+<br>LLMs, RAG, Agents
+
+</td>
+<td align="center">
+
+![Cloud](https://img.shields.io/badge/CLOUD-C2410C?style=for-the-badge)
+<br>AWS, Serverless
+
+</td>
+<td align="center">
+
+![Core CS](https://img.shields.io/badge/CORE%20CS-15803D?style=for-the-badge)
+<br>DSA, DBMS, OS
 
 </td>
 </tr>
 </table>
 
+</div>
+
 ---
+
+<div align="center">
+
+### About Me
+
+Computer Science undergraduate who builds scalable software, intelligent AI/ML systems, and modern web applications — not just class projects. I work at the intersection of full-stack engineering and applied AI, turning ideas into systems that actually run in production, not just in a notebook.
+
+**My approach:** `Learn` → `Build` → `Scale` → `Ship`
+
+I go after hard problems, pick up new tools fast, and ship AI-powered solutions built for real use cases — not demos.
+
+### What I Build
+
+<table align="center">
+<tr>
+<td align="center">
+
+**AI & Intelligent Systems**
+<br>AI-powered applications
+<br>Intelligent automation
+<br>Data-driven applications
+
+</td>
+<td align="center">
+
+**Software & Infrastructure**
+<br>Full-stack web platforms
+<br>Scalable backend systems
+<br>Cloud-native applications
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
 
 ### Tech Stack
 
@@ -74,7 +109,11 @@ I like solving hard problems, picking up emerging technologies quickly, and expe
 ![Docker](https://img.shields.io/badge/DOCKER-0A66C2?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/POSTMAN-CC5500?style=for-the-badge&logo=postman&logoColor=white)
 
+</div>
+
 ---
+
+<div align="center">
 
 ### AI / ML
 
@@ -92,7 +131,11 @@ I like solving hard problems, picking up emerging technologies quickly, and expe
 
 Technologies I actively explore and build projects with — not claimed as professional expertise.
 
+</div>
+
 ---
+
+<div align="center">
 
 ### Cloud & Engineering
 
@@ -100,7 +143,11 @@ Technologies I actively explore and build projects with — not claimed as profe
 ![REST APIs](https://img.shields.io/badge/REST_APIS-1E3A5F?style=for-the-badge)
 ![Serverless](https://img.shields.io/badge/SERVERLESS-7C2D12?style=for-the-badge&logo=serverless&logoColor=white)
 
+</div>
+
 ---
+
+<div align="center">
 
 ### Computer Science Fundamentals
 
@@ -108,21 +155,23 @@ Technologies I actively explore and build projects with — not claimed as profe
 ![DBMS](https://img.shields.io/badge/DBMS-1E3A5F?style=for-the-badge)
 ![OOP](https://img.shields.io/badge/OOP-14532D?style=for-the-badge)
 
+</div>
+
 ---
+
+<div align="center">
 
 ### Current Focus
 
-- Building AI-powered products
-- Exploring LLMs, RAG & AI Agents
-- Developing scalable full-stack applications
-- Learning cloud-native architecture & AWS
-- Strengthening DSA & core CS fundamentals
+Building AI-powered products &nbsp;&middot;&nbsp; Exploring LLMs, RAG & AI Agents &nbsp;&middot;&nbsp; Developing scalable full-stack applications &nbsp;&middot;&nbsp; Learning cloud-native architecture & AWS &nbsp;&middot;&nbsp; Strengthening DSA & core CS fundamentals
+
+</div>
 
 ---
 
-### GitHub Statistics
-
 <div align="center">
+
+### GitHub Statistics
 
 <img src="https://github-readme-stats.vercel.app/api?username=nikhil1-818&show_icons=true&theme=default&hide_border=true&count_private=true" width="49%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil1-818&layout=compact&theme=default&hide_border=true" width="40%" />
@@ -135,11 +184,13 @@ Technologies I actively explore and build projects with — not claimed as profe
 
 ---
 
-### Connect With Me
-
 <div align="center">
+
+### Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-tyagi-894993313)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nikhil1-818)
+
+**Building serious things. Understanding modern software and AI.**
 
 </div>
