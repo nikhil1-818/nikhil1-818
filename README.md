@@ -46,7 +46,7 @@
 
 <div align="center">
 
-### About Me
+## About Me
 
 Computer Science undergraduate who builds scalable software, intelligent AI/ML systems, and modern web applications — not just class projects. I work at the intersection of full-stack engineering and applied AI, turning ideas into systems that actually run in production, not just in a notebook.
 
@@ -54,36 +54,13 @@ Computer Science undergraduate who builds scalable software, intelligent AI/ML s
 
 I go after hard problems, pick up new tools fast, and ship AI-powered solutions built for real use cases — not demos.
 
-### What I Build
-
-<table align="center">
-<tr>
-<td align="center">
-
-**AI & Intelligent Systems**
-<br>AI-powered applications
-<br>Intelligent automation
-<br>Data-driven applications
-
-</td>
-<td align="center">
-
-**Software & Infrastructure**
-<br>Full-stack web platforms
-<br>Scalable backend systems
-<br>Cloud-native applications
-
-</td>
-</tr>
-</table>
-
 </div>
 
 ---
 
 <div align="center">
 
-### Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -115,7 +92,7 @@ I go after hard problems, pick up new tools fast, and ship AI-powered solutions 
 
 <div align="center">
 
-### AI / ML
+## AI / ML
 
 **Core Concepts**
 
@@ -137,7 +114,7 @@ Technologies I actively explore and build projects with — not claimed as profe
 
 <div align="center">
 
-### Cloud & Engineering
+## Cloud & Engineering
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
 ![REST APIs](https://img.shields.io/badge/REST_APIS-1E3A5F?style=for-the-badge)
@@ -149,7 +126,7 @@ Technologies I actively explore and build projects with — not claimed as profe
 
 <div align="center">
 
-### Computer Science Fundamentals
+## Computer Science Fundamentals
 
 ![DSA](https://img.shields.io/badge/DATA_STRUCTURES_%26_ALGORITHMS-7F1D1D?style=for-the-badge)
 ![DBMS](https://img.shields.io/badge/DBMS-1E3A5F?style=for-the-badge)
@@ -161,7 +138,7 @@ Technologies I actively explore and build projects with — not claimed as profe
 
 <div align="center">
 
-### Current Focus
+## Current Focus
 
 Building AI-powered products &nbsp;&middot;&nbsp; Exploring LLMs, RAG & AI Agents &nbsp;&middot;&nbsp; Developing scalable full-stack applications &nbsp;&middot;&nbsp; Learning cloud-native architecture & AWS &nbsp;&middot;&nbsp; Strengthening DSA & core CS fundamentals
 
@@ -171,7 +148,7 @@ Building AI-powered products &nbsp;&middot;&nbsp; Exploring LLMs, RAG & AI Agent
 
 <div align="center">
 
-### GitHub Statistics
+## GitHub Statistics
 
 <img src="https://github-readme-stats.vercel.app/api?username=nikhil1-818&show_icons=true&theme=default&hide_border=true&count_private=true" width="49%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil1-818&layout=compact&theme=default&hide_border=true" width="40%" />
@@ -186,7 +163,7 @@ Building AI-powered products &nbsp;&middot;&nbsp; Exploring LLMs, RAG & AI Agent
 
 <div align="center">
 
-### Connect With Me
+## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-tyagi-894993313)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nikhil1-818)
