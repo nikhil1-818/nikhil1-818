@@ -9,36 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-tyagi-894993313)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nikhil1-818)
 
-<br>
 
-<table align="center">
-<tr>
-<td align="center">
-
-![Full-Stack](https://img.shields.io/badge/FULL--STACK-1E3A5F?style=for-the-badge)
-<br>MERN + Modern Web
-
-</td>
-<td align="center">
-
-![AI/ML](https://img.shields.io/badge/AI%20%2F%20ML-6D28D9?style=for-the-badge)
-<br>LLMs, RAG, Agents
-
-</td>
-<td align="center">
-
-![Cloud](https://img.shields.io/badge/CLOUD-C2410C?style=for-the-badge)
-<br>AWS, Serverless
-
-</td>
-<td align="center">
-
-![Core CS](https://img.shields.io/badge/CORE%20CS-15803D?style=for-the-badge)
-<br>DSA, DBMS, OS
-
-</td>
-</tr>
-</table>
 
 </div>
 
@@ -52,8 +23,6 @@ Computer Science undergraduate who builds scalable software, intelligent AI/ML s
 
 **My approach:** `Learn` → `Build` → `Scale` → `Ship`
 
-I go after hard problems, pick up new tools fast, and ship AI-powered solutions built for real use cases — not demos.
-
 </div>
 
 ---
@@ -62,75 +31,107 @@ I go after hard problems, pick up new tools fast, and ship AI-powered solutions 
 
 ## Tech Stack
 
-**Languages**
+<table align="center">
+<tr>
+<td align="right"><b>Languages</b></td>
+<td>
 
-![Python](https://img.shields.io/badge/PYTHON-306998?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-306998?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![C](https://img.shields.io/badge/C-283593?style=flat-square&logo=c&logoColor=white)
 
-**Frontend**
+</td>
+</tr>
+<tr>
+<td align="right"><b>Frontend</b></td>
+<td>
 
-![React](https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/TAILWIND_CSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
-![HTML5](https://img.shields.io/badge/HTML5-B7410E?style=for-the-badge&logo=html5&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
+![HTML5](https://img.shields.io/badge/HTML5-B7410E?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1E3A8A?style=flat-square&logo=css3&logoColor=white)
 
-**Backend & Databases**
+</td>
+</tr>
+<tr>
+<td align="right"><b>Backend</b></td>
+<td>
 
-![Node.js](https://img.shields.io/badge/NODE.JS-1B3A2C?style=for-the-badge&logo=node.js&logoColor=339933)
-![MongoDB](https://img.shields.io/badge/MONGODB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MYSQL-00546B?style=for-the-badge&logo=mysql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-1B3A2C?style=flat-square&logo=node.js&logoColor=339933)
+![Express](https://img.shields.io/badge/Express-1F2937?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00546B?style=flat-square&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-0F5132?style=flat-square&logo=supabase&logoColor=white)
 
-**Developer Tools**
+</td>
+</tr>
+<tr>
+<td align="right"><b>AI / ML</b></td>
+<td>
 
-![Git](https://img.shields.io/badge/GIT-B03A2E?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/DOCKER-0A66C2?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/POSTMAN-CC5500?style=for-the-badge&logo=postman&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-4B5563?style=flat-square)
+![Generative AI](https://img.shields.io/badge/Generative_AI-3B0764?style=flat-square)
+![LLMs](https://img.shields.io/badge/LLMs-1E1B4B?style=flat-square)
+![NLP](https://img.shields.io/badge/NLP-374151?style=flat-square)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-1F2937?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-7C2D12?style=flat-square)
+![AI Agents](https://img.shields.io/badge/AI_Agents-312E81?style=flat-square)
 
-</div>
+</td>
+</tr>
+<tr>
+<td align="right"><b>ML Ecosystem</b></td>
+<td>
 
----
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Scikit--learn](https://img.shields.io/badge/Scikit--learn-14532D?style=flat-square&logo=scikitlearn&logoColor=F7931E)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-1A3C34?style=flat-square&logo=tensorflow&logoColor=FF6F00)
+![PyTorch](https://img.shields.io/badge/PyTorch-3C1A1A?style=flat-square&logo=pytorch&logoColor=EE4C2C)
+![OpenCV](https://img.shields.io/badge/OpenCV-1F2937?style=flat-square&logo=opencv&logoColor=5C3EE8)
 
-<div align="center">
+</td>
+</tr>
+<tr>
+<td align="right"><b>Cloud</b></td>
+<td>
 
-## AI / ML
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
+![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
+![REST APIs](https://img.shields.io/badge/REST_APIs-1E3A5F?style=flat-square)
+![Serverless](https://img.shields.io/badge/Serverless-7C2D12?style=flat-square&logo=serverless&logoColor=white)
 
-**Core Concepts**
+</td>
+</tr>
+<tr>
+<td align="right"><b>Tools</b></td>
+<td>
 
-![Machine Learning](https://img.shields.io/badge/MACHINE_LEARNING-4B5563?style=for-the-badge)
-![Generative AI](https://img.shields.io/badge/GENERATIVE_AI-3B0764?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-7C2D12?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-B03A2E?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0A66C2?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0A66C2?style=flat-square&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-CC5500?style=flat-square&logo=postman&logoColor=white)
 
-**ML Ecosystem**
+</td>
+</tr>
+<tr>
+<td align="right"><b>Core CS</b></td>
+<td>
 
-![PyTorch](https://img.shields.io/badge/PYTORCH-3C1A1A?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
-![TensorFlow](https://img.shields.io/badge/TENSORFLOW-1A3C34?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
-![Scikit-learn](https://img.shields.io/badge/SCIKIT--LEARN-14532D?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
+![OOP](https://img.shields.io/badge/OOP-14532D?style=flat-square)
+![DSA](https://img.shields.io/badge/DSA-7F1D1D?style=flat-square)
+![DBMS](https://img.shields.io/badge/DBMS-1E3A5F?style=flat-square)
+![Operating Systems](https://img.shields.io/badge/OS-374151?style=flat-square)
+![Computer Networks](https://img.shields.io/badge/Networks-1F2937?style=flat-square)
+![Software Engineering](https://img.shields.io/badge/SWE-1E1B4B?style=flat-square)
 
-Technologies I actively explore and build projects with — not claimed as professional expertise.
+</td>
+</tr>
+</table>
 
-</div>
-
----
-
-<div align="center">
-
-## Cloud & Engineering
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![REST APIs](https://img.shields.io/badge/REST_APIS-1E3A5F?style=for-the-badge)
-![Serverless](https://img.shields.io/badge/SERVERLESS-7C2D12?style=for-the-badge&logo=serverless&logoColor=white)
-
-</div>
-
----
-
-<div align="center">
-
-## Computer Science Fundamentals
-
-![DSA](https://img.shields.io/badge/DATA_STRUCTURES_%26_ALGORITHMS-7F1D1D?style=for-the-badge)
-![DBMS](https://img.shields.io/badge/DBMS-1E3A5F?style=for-the-badge)
-![OOP](https://img.shields.io/badge/OOP-14532D?style=for-the-badge)
+<sub>AI/ML technologies are actively explored and applied in projects — not claimed as professional expertise.</sub>
 
 </div>
 
@@ -140,7 +141,7 @@ Technologies I actively explore and build projects with — not claimed as profe
 
 ## Current Focus
 
-Building AI-powered products &nbsp;&middot;&nbsp; Exploring LLMs, RAG & AI Agents &nbsp;&middot;&nbsp; Developing scalable full-stack applications &nbsp;&middot;&nbsp; Learning cloud-native architecture & AWS &nbsp;&middot;&nbsp; Strengthening DSA & core CS fundamentals
+Building AI-powered products &nbsp;&middot;&nbsp; Exploring LLMs, RAG & AI Agents &nbsp;&middot;&nbsp; Scalable full-stack systems &nbsp;&middot;&nbsp; Cloud-native architecture on AWS &nbsp;&middot;&nbsp; Strengthening DSA & core CS
 
 </div>
 
